@@ -46,4 +46,4 @@ This project is part of my research in **Digital Forensics & Ethical Hacking**.
 
 ## 📁 Project Structure
 
-will be Available after completion of this project.. 👍🏻
+will be Available after the completion of this project.. 👍🏻
