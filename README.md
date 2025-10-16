@@ -31,7 +31,16 @@ This project is part of my research in **Digital Forensics & Ethical Hacking**.
 - **NLP** – content analysis  
 - **Regex & URL parsing** – header & link analysis  
 - **JSON / CSV** – datasets  
-- **Tkinter** (optional) – GUI for user interface  
+- **Tkinter** (optional) – GUI for user interface
+
+---
+
+## 🚀 How It Works
+1. Load email data (headers, body, URLs)  
+2. Preprocess and clean the data  
+3. Extract features for analysis  
+4. Run AI/ML model to classify emails  
+5. Output **phishing score** and **alert** for suspicious emails  
 
 ---
 
